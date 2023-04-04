@@ -43,9 +43,11 @@ I am pleased to welcome you to my GitHub profile, a collection of wide varieties
 
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvnet&theme=midnight-purple&hide_border=false" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvnet&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhruvnet&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" /></p>
+<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=Dhruvnet&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruvnet&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvnet&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
 
 
 ### 🔝 Top Contributed Repo
