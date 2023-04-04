@@ -1,3 +1,4 @@
+![MasterHead](https://user-images.githubusercontent.com/123807371/228915168-ba72cf5b-e01f-4d37-9f91-bc090d84b4d2.gif)
 
 <h1 align="center">Hello !! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI4YjM2ZGNiNTg5NTI2N2UxNjdkNDNjM2E2OTAzODkyZTQ3MmYwZCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"> I'm Dhruv Sheth</h1>
 
