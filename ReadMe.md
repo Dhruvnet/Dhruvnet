@@ -4,6 +4,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=deep-dey&show_icons=true&locale=en&theme=transparent" alt="deep-dey" /></p>
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep-dey&show_icons=true&locale=en&layout=compact&theme=transparent" alt="deep-dey" /></p>
