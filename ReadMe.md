@@ -4,8 +4,7 @@
 #### <h3 align="center">An Engineering Undergrad student 💻 from India </h3> 
 
 # 💫 About Me:
-| am pleased to welcome you to my GitHub profile, a collection of wide varieties of my work which including App Development 📱 , Web Development 🌐, Machine Learning 🤖 and Data Science 📊
-
+I am pleased to welcome you to my GitHub profile, a collection of wide varieties of my work which including App Development 📱 , Web Development 🌐, Machine Learning 🤖 , Data Science 📊 and much more..
 
 🔭 I’m currently working on Machine Learning and Deep Learning.<br>🌱 I’m currently exploring AI/ML.<br>💬 Ask me about anything about Android , Web Development  always happy to help.<br>⚡ Fun fact: Debugging is like being a detective in a crime movie
 
@@ -45,7 +44,7 @@
 # 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhruvnet&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvnet&theme=midnight-purple&hide_border=false" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruvnet&theme=midnight-purple&hide_border=false" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvnet&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
 
