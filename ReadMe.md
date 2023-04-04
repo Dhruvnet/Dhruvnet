@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello !! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI4YjM2ZGNiNTg5NTI2N2UxNjdkNDNjM2E2OTAzODkyZTQ3MmYwZCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"> I'm Dhruv Sheth</h1>
 
-#### An Engineering Undergrad student 💻 from India 
+#### <h1 align="center">An Engineering Undergrad student 💻 </h1> 
 
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning and Deep Learning.<br>🌱 I’m currently exploring AI/ML.<br>💬 Ask me about anything about Android , Web Development  always happy to help.<br>⚡ Fun fact: Debugging is like being a detective in a crime movie
