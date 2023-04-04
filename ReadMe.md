@@ -11,10 +11,9 @@ I am pleased to welcome you to my GitHub profile, a collection of wide varieties
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruvnet) 
 
-# 💻 Tech Stack:
+# 👩🏾‍💻 Tech Stack:
 - 💻 &nbsp;
 	![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-	![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 	![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 	![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 	![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
