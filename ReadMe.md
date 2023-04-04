@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://deepdey.tech)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://deepdey.tech)
 
 <h1 align="center">Hello !! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI4YjM2ZGNiNTg5NTI2N2UxNjdkNDNjM2E2OTAzODkyZTQ3MmYwZCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"> I'm Dhruv Sheth</h1>
 
@@ -39,10 +39,10 @@ I am pleased to welcome you to my GitHub profile, a collection of wide varieties
 
 
 # 📊 GitHub Stats:
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Dhruvnet&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="Dhruvnet" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep-dey&show_icons=true&locale=en&layout=compact&theme=transparentsrc="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvnet&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvnet&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dhruvnet&limit=5&theme=dark&combine_all_yearly_contributions=true)
