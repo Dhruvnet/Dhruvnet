@@ -1,10 +1,12 @@
+(https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
 <h1 align="center">Hello !! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI4YjM2ZGNiNTg5NTI2N2UxNjdkNDNjM2E2OTAzODkyZTQ3MmYwZCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"> I'm Dhruv Sheth</h1>
 
 #### <h3 align="center">An Engineering Undergraduate student 💻 from India </h3> 
 
 # 💫 About Me:
 I am pleased to welcome you to my GitHub profile, a collection of wide varieties of my work which including App Development 📱 , Web Development 🌐, Machine Learning 🤖 and Data Science 📊
-<img height="230" align="right" alt="coding" src="https://media2.giphy.com/media/MunViQ5feR29sMFVfa/giphy.gif?cid=6c09b952c7jgvpp3bgsgpsv3g2gk3sob02xw7i851m73fgfz&rid=giphy.gif&ct=s">
+<img height="230" align="right" alt="coding" src="https://media2.giphy.com/media/MunViQ5feR29sMFVfa/giphy.gif?cid=6c09b952c7jgvpp3bgsgpsv3g2gk3sob02xw7i851m73fgfz&rid=giphy.gif&ct=s"><br><br>
 🔭 I’m currently working on Machine Learning and Deep Learning.<br>🌱 I’m currently exploring AI/ML.<br>💬 Ask me about anything about Android , Web Development  always happy to help.<br>⚡ Fun fact: Debugging is like being a detective in a crime movie
 
 
