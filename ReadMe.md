@@ -1,4 +1,4 @@
-(https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hello !! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI4YjM2ZGNiNTg5NTI2N2UxNjdkNDNjM2E2OTAzODkyZTQ3MmYwZCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"> I'm Dhruv Sheth</h1>
 
