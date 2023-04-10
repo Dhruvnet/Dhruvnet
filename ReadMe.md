@@ -14,8 +14,6 @@ I am pleased to welcome you to my GitHub profile, a collection of wide varieties
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvnet) 
 
 # 👩🏾‍💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,md,bash,powershell,ansible,py,nodejs,aws,mongodb,mysql,github,gitlab,figma,html,css,wordpress,ps,pr,ae,vscode)]
-
 
 - 💻 &nbsp; <br>
 	![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,7 +24,7 @@ I am pleased to welcome you to my GitHub profile, a collection of wide varieties
 	![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 	![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-		![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+	![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 - 📱 &nbsp; <br>
 	![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
