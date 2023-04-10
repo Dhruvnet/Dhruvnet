@@ -14,7 +14,7 @@ I am pleased to welcome you to my GitHub profile, a collection of wide varieties
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvnet) 
 
 # 👩🏾‍💻 Tech Stack:
-- 💻 &nbsp;
+- 💻 &nbsp; <br>
 	![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 	![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 	![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
