@@ -1,5 +1,3 @@
-<img height="230" align="right" alt="coding" src="https://media2.giphy.com/media/MunViQ5feR29sMFVfa/giphy.gif?cid=6c09b952c7jgvpp3bgsgpsv3g2gk3sob02xw7i851m73fgfz&rid=giphy.gif&ct=s">
-
 <h1 align="center">Hello !! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI4YjM2ZGNiNTg5NTI2N2UxNjdkNDNjM2E2OTAzODkyZTQ3MmYwZCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"> I'm Dhruv Sheth</h1>
 
 #### <h3 align="center">An Engineering Undergraduate student 💻 from India </h3> 
