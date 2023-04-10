@@ -1,4 +1,4 @@
-[![MasterHead](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>)
+[![MasterHead]<img alt="Coder GIF" height="250" width="100%" src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <h1 align="center">Hello !! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI4YjM2ZGNiNTg5NTI2N2UxNjdkNDNjM2E2OTAzODkyZTQ3MmYwZCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"> I'm Dhruv Sheth</h1>
 
@@ -17,6 +17,7 @@ I am pleased to welcome you to my GitHub profile, a collection of wide varieties
 - 💻 &nbsp;
 	![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 	![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+	![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 	![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 	![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 	![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -37,6 +38,7 @@ I am pleased to welcome you to my GitHub profile, a collection of wide varieties
 	![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 	![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 	![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+	![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 # 📊 GitHub Stats:
