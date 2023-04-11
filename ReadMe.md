@@ -5,9 +5,9 @@
 #### <h3 align="center">An Engineering Undergraduate student 💻 from India </h3> 
 
 # 💫 About Me:
-I am pleased to welcome you to my GitHub profile, a collection of wide varieties of my work which including App Development 📱 , Web Development 🌐, Machine Learning 🤖 and Data Science 📊
-<img height="230" align="right" alt="coding" src="https://media2.giphy.com/media/MunViQ5feR29sMFVfa/giphy.gif?cid=6c09b952c7jgvpp3bgsgpsv3g2gk3sob02xw7i851m73fgfz&rid=giphy.gif&ct=s"><br><br>
-🔭 I’m currently working on Machine Learning and Deep Learning.<br>🌱 I’m currently exploring AI/ML.<br>💬 Ask me about anything about Android , Web Development  always happy to help.<br>⚡ Fun fact: Debugging is like being a detective in a crime movie
+I am pleased to welcome you to my GitHub profile, a collection of wide varieties of my work which including App Development 📱 , Web Development 🌐, Machine Learning 🤖 and Data Science 📊 <br> 
+<img height="230" align="right" alt="coding" src="https://media2.giphy.com/media/MunViQ5feR29sMFVfa/giphy.gif?cid=6c09b952c7jgvpp3bgsgpsv3g2gk3sob02xw7i851m73fgfz&rid=giphy.gif&ct=s"><br>
+<br>🔭 I’m currently working on Machine Learning and Deep Learning.<br>🌱 I’m currently exploring AI/ML.<br>💬 Ask me about anything about Android , Web Development  always happy to help.<br>⚡ Fun fact: Debugging is like being a detective in a crime movie
 
 
 ## 🌐 Socials:
