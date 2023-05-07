@@ -10,6 +10,7 @@ Hi there, I'm Dhruv Sheth, pleased to welcome you to my GitHub profile, a collec
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvnet) 
+[![Developer](https://img.shields.io/badge/Google%20Developer-%23E60012.svg?logo=android&logoColor=white)](https://g.dev/Dhruvnet)
 
 # 👩🏾‍💻 Tech Stack:
 
