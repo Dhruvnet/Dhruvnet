@@ -10,7 +10,7 @@
 - 💬 Ask me about **Web Development 🌐, App Development 📱**
 - 📫 How to reach me **dhruvsheth226@gmail.com**
 - 👯‍♀️ I'm looking to collaborate with other developers.
-- ⚡️ Fun fact.
+- ⚡️ Fun fact Programmers are the modern-day wizards, casting spells in languages only computers understand.
 - 🚀 I'm passionate and talented software developer who loves to explore the world of technology and create innovative solutions. With a strong background in computer science and a flair for coding, my GitHub repositories showcase a diverse range of projects that reflect my expertise and creativity.
 
 
