@@ -7,12 +7,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvnet&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvnet" /> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence , Machine Learning , Deep Learning**
+  
 - 💬 Ask me about **Web Development 🌐, App Development 📱**
+  
 - 📫 How to reach me **dhruvsheth226@gmail.com**
+  
 - 👯‍♀️ I'm looking to collaborate with other developers.
+  
 - ⚡️ Fun fact Programmers are the modern-day wizards, casting spells in languages only computers understand.
-- 🚀 I'm passionate and talented software developer who loves to explore the world of technology and create innovative solutions. With a strong background in computer science and a flair for coding, my GitHub repositories showcase a diverse range of projects that reflect my expertise and creativity.
-
 
 ## Connect with me:
 <p align="center">
