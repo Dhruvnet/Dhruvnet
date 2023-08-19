@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvnet&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvnet" /> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence , Machine Learning , Deep Learning**
+- 🌱 I’m currently learning **Artificial Intelligence,  Machine Learning,  Deep Learning**
   
 - 💬 Ask me about **Web Development 🌐, App Development 📱**
   
@@ -56,8 +56,3 @@
 <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />       
 </p>
 
-
-## 📊 Github stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvnet&show_icons=true&locale=en&layout=compact" alt="dhruvnet" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvnet&show_icons=true&locale=en" alt="dhruvnet" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvnet&" alt="dhruvnet" /></p>   
