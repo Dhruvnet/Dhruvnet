@@ -2,57 +2,45 @@
 <h1 align="center">Hello !! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI4YjM2ZGNiNTg5NTI2N2UxNjdkNDNjM2E2OTAzODkyZTQ3MmYwZCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"> I'm Dhruv Sheth</h1>
 <h3 align="center">An Engineering Undergraduate student 💻 from India </h3> 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+## <img src="https://github.com/user-attachments/assets/3d530f3a-f202-42f7-96eb-53436ceea541" width = 50px> **About me** 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvnet&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvnet" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvnet&label=Visitors&color=FF0000&style=flat" alt="dhruvnet" /> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence,  Machine Learning,  Deep Learning**
-  
-- 💬 Ask me about **Web Development 🌐, App Development 📱**
-  
-- 📫 How to reach me **dhruvsheth226@gmail.com**
-  
-- 👯‍♀️ I'm looking to collaborate with other developers.
-  
-- ⚡️ Fun fact Programmers are the modern-day wizards, casting spells in languages only computers understand.
+- 🌱 I’m currently diving deep into the fascinating realms of **Artificial Intelligence, Machine Learning,** and **Deep Learning**.
 
-## Connect with me:
-<p align="center">
-<a href="https://linkedin.com/in/dhruvnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvnet" height="30" width="40" /></a>
+- 💬 **Feel free to ask me about anything related to _Web Development 🌐_ or _App Development 📱_**—I’m always excited to chat and share knowledge!
+
+- 📫 **You can reach out to me at _dhruvsheth226@gmail.com_**—I’m just an email away.
+
+- 👯‍♀️ **I'm eager to collaborate with fellow developers and work on innovative projects together.** Let's create something amazing!
+
+- 🚀 In my free time, I love exploring new technologies, contributing to open-source projects, and attending tech meetups. It's always thrilling to be part of the tech community!
+
+- 🎨 Besides coding, I have a passion for digital art and often experiment with creating visually captivating designs.
+
+- ⚡️ **Fun fact:** Did you know that programmers are often considered the modern-day wizards? We write code that can create entire virtual worlds, automate complex tasks, and solve real-world problems—**it's like casting spells in languages only computers understand.** 🧙‍♂️✨
+<br>
+
+## <img src="https://github.com/user-attachments/assets/70819b2f-a722-4149-b576-5c6d6111829a" width ="80"> Connect with me :
+<p>
+  <a href="https://linkedin.com/in/dhruvnet" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ec0f9553-6fbb-4887-aa6d-e9cbfb34386c" alt="LinkedIn" height="40" width="40" style="color: #0077B5;" />
+  </a>
 </p>
+<br>
 
-## 👩‍💻 Languages and Tools:
-<p align="left"> 
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /> 
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />     
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="60" height="60" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
-<img width="60" height="60" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
-<img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
-<img width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />                                                                                    <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />   
-<img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />       
-</p>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"> Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=py,js,react,css,tailwind,bootstrap,angular,html,php,ts,wordpress,eclipse,flask,java,scala,androidstudio,dart,flutter,kotlin,c,cpp,firebase,nodejs,npm,postman,powershell,aws,azure,bash,cloudflare,docker,jquery,kafka,kubernetes,au,blender,figma,ai,ps,pr,xd,git,kali,linux,ubuntu,tensorflow,matlab,opencv,sklearn,visualstudio,vercel,vite,vscode,vue&theme=light)](https://skillicons.dev)
+<br />
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="margin-top: 20px" width="40"><b> Github Stats </b>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvnet&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvnet&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvnet&" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvnet&custom_title=Dhruv's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=00000000&color=FFFFFF&line=1E90FF&point=1E90FF&area_color=00000000&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvnet" alt="dhruvnet" /></a> </p>
+
 
