@@ -39,7 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvnet&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvnet&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvnet&" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvnet&custom_title=Dhruv's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=00000000&color=FFFFFF&line=1E90FF&point=1E90FF&area_color=00000000&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvnet" alt="dhruvnet" /></a> </p>
 
