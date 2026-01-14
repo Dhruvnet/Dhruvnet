@@ -17,8 +17,6 @@
 - 🚀 In my free time, I love exploring new technologies, contributing to open-source projects, and attending tech meetups. It's always thrilling to be part of the tech community!
 
 - 🎨 Besides coding, I have a passion for digital art and often experiment with creating visually captivating designs.
-
-- ⚡️ **Fun fact:** Did you know that programmers are often considered the modern-day wizards? We write code that can create entire virtual worlds, automate complex tasks, and solve real-world problems—**it's like casting spells in languages only computers understand.** 🧙‍♂️✨
 <br>
 
 ## <img src="https://github.com/user-attachments/assets/70819b2f-a722-4149-b576-5c6d6111829a" width ="80"> Connect with me :
